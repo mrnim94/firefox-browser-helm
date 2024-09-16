@@ -8,7 +8,7 @@ image:
   repository: jlesage/firefox
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v24.04.1"
+  tag: "v24.08.1"
 
 imagePullSecrets: []
 nameOverride: ""
