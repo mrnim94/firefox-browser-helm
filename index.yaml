@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   firefox-browser:
   - apiVersion: v2
+    appVersion: v25.03.1
+    created: "2025-04-03T07:28:16.560746152Z"
+    description: A Helm chart for Kubernetes
+    digest: 58b7a29b4d9d2ddd403df88ee373f46fa4ca508a915dce0cf9b8c3c99d9f2b3c
+    name: firefox-browser
+    type: application
+    urls:
+    - firefox-browser-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
     appVersion: v24.04.1
-    created: "2024-04-15T03:59:16.516786496Z"
+    created: "2025-04-03T07:28:16.559893438Z"
     description: A Helm chart for Kubernetes
     digest: e3d1c80e816c4b0c981f62267576ac74719ed6e6f1a64ee0f4e77888ae5887ac
     name: firefox-browser
@@ -13,7 +23,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v23.06.1
-    created: "2024-04-15T03:59:16.516057827Z"
+    created: "2025-04-03T07:28:16.559050079Z"
     description: A Helm chart for Kubernetes
     digest: 3b41d6de51c44d17e25fea4a6b2680a36e2deab95838f00279169ab7a1ddd206
     name: firefox-browser
@@ -23,7 +33,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: v23.06.1
-    created: "2024-04-15T03:59:16.515091291Z"
+    created: "2025-04-03T07:28:16.558186494Z"
     description: A Helm chart for Kubernetes
     digest: fa2767962f6dd2e3dfef8959d44782f8673f3a47f0f2769693116aeb03f860a7
     name: firefox-browser
@@ -31,4 +41,4 @@ entries:
     urls:
     - firefox-browser-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-15T03:59:16.513995694Z"
+generated: "2025-04-03T07:28:16.557017926Z"
